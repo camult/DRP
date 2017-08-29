@@ -1,0 +1,12 @@
+Package: DRP
+Title: Deregressing estimated breeding values
+Version: 1.0
+Date: 2016-10-3
+Author: Fernando Brito Lopes
+Maintainer: Fernando Brito Lopes <camult@gmail.com>
+Depends: R (>= 3.1)
+Description: This package is easy to use and can be helpful to calculate deregressed proofs, and their reliabilities and weights.
+LazyData: true
+License: GPL-3
+Archs: i386, x64
+RoxygenNote: 6.0.1
